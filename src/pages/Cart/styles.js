@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import {darket, darken} from 'polished';
+import { darken} from 'polished';
 export const Container = styled.div`
   padding: 30px;
   background: #fff;
