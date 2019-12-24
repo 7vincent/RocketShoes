@@ -3,8 +3,9 @@ import { BrowserRouter } from "react-router-dom";
 import Routes from "./routes";
 import {Provider} from 'react-redux';
 
-import Header from './components/Header';
+import './config/ReactotronConfig';
 
+import Header from './components/Header';
 import StyleGlobal from "./styles/global";
 import store from './store';
 
